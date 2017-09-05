@@ -18,7 +18,7 @@ def detect_face(image):
 
 cap = cv2.VideoCapture(0)
 
-model = keras.models.load_model('cnn2.h5')
+model = keras.models.load_model('cnn3.h5')
 
 while cap.isOpened():
     # Read first frame
