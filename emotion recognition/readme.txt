@@ -1,4 +1,6 @@
-#####################################################################################################################################
+
+
+
 #dataset
 --fer2013.csv downloaded from kaggle.com
 Trainig the neural network model
@@ -14,6 +16,8 @@ Trainig the neural network model
 #images
 --alexnet1.jpg sample alexnet network architecture
 --Screenshot from 2017-04-24 13-37-17.png (training screenshot)
+#model
+--cnn3.h5 model file
 
 
 
