@@ -22,7 +22,7 @@ if len(fname)<1:
 else:
 	cap = cv2.VideoCapture(fname)
 
-model = keras.models.load_model('cnn2.h5')
+model = keras.models.load_model('cnn3.h5')
 
 while cap.isOpened():
     # Read first frame
